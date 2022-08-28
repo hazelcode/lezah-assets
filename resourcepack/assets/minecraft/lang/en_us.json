@@ -45,5 +45,9 @@
   "advancements.lezah.hitman.title": "Hitman",
   "advancements.lezah.hitman.desc": "Kill 25 zombies",
   "advancements.lezah.warrior_armor.title": "Warriors on the attack!",
-  "advancements.lezah.warrior_armor.desc": "Wear the full warrior armor"
+  "advancements.lezah.warrior_armor.desc": "Wear the full warrior armor",
+  "item.lezah.smooth_stone_axe": "Smooth Stone Axe",
+  "item.lezah.smooth_stone_hoe": "Smooth Stone Hoe",
+  "item.lezah.smooth_stone_pickaxe": "Smooth Stone Pickaxe",
+  "item.lezah.smooth_stone_shovel": "Smooth Stone Shovel"
 }

@@ -45,5 +45,9 @@
   "advancements.lezah.hitman.title": "Sicario",
   "advancements.lezah.hitman.desc": "Mata a 25 zombis",
   "advancements.lezah.warrior_armor.title": "¡Guerreros al ataque!",
-  "advancements.lezah.warrior_armor.desc": "Porta la armadura completa del guerrero"
+  "advancements.lezah.warrior_armor.desc": "Porta la armadura completa del guerrero",
+  "item.lezah.smooth_stone_axe": "Hacha de piedra lisa",
+  "item.lezah.smooth_stone_hoe": "Azada de piedra lisa",
+  "item.lezah.smooth_stone_pickaxe": "Pico de piedra lisa",
+  "item.lezah.smooth_stone_shovel": "Pala de piedra lisa"
 }
