@@ -49,5 +49,8 @@
   "item.lezah.smooth_stone_axe": "Smooth Stone Axe",
   "item.lezah.smooth_stone_hoe": "Smooth Stone Hoe",
   "item.lezah.smooth_stone_pickaxe": "Smooth Stone Pickaxe",
-  "item.lezah.smooth_stone_shovel": "Smooth Stone Shovel"
+  "item.lezah.smooth_stone_shovel": "Smooth Stone Shovel",
+  "item.lezah.thunder_rod": "Thunder Rod",
+  "text.lezah.thunder_rod_radius": "You can't summon thunder. There aren't entities nearby!",
+  "text.lezah.thunder_rod_boom": "LET'S GO!"
 }

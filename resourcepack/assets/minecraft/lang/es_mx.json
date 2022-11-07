@@ -49,5 +49,8 @@
   "item.lezah.smooth_stone_axe": "Hacha de piedra lisa",
   "item.lezah.smooth_stone_hoe": "Azada de piedra lisa",
   "item.lezah.smooth_stone_pickaxe": "Pico de piedra lisa",
-  "item.lezah.smooth_stone_shovel": "Pala de piedra lisa"
+  "item.lezah.smooth_stone_shovel": "Pala de piedra lisa",
+  "item.lezah.thunder_rod": "Vara de Trueno",
+  "text.lezah.thunder_rod_radius": "No puedes invocar truenos. ¡No hay entidades cerca!",
+  "text.lezah.thunder_rod_boom": "¡VAMOS!"
 }
