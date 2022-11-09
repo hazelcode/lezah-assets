@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "lezah:item/pico_de_piedra_lisa"
+  }
+}

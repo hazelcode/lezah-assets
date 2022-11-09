@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "lezah:item/hacha_de_piedra_lisa"
+  }
+}
