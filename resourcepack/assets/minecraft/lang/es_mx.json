@@ -53,5 +53,6 @@
   "item.lezah.thunder_rod": "Vara de Trueno",
   "text.lezah.thunder_rod_radius": "No puedes invocar truenos. ¡No hay entidades cerca!",
   "text.lezah.thunder_rod_boom": "¡VAMOS!",
-  "item.lezah.bugged_sword": "Espada Bugeada"
+  "item.lezah.bugged_sword": "Espada Bugeada",
+  "text.lezah.thunder_rod_shoot_thunder": "[SHIFT] ¡Disparar Trueno!"
 }

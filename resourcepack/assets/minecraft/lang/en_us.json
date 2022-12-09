@@ -53,5 +53,6 @@
   "item.lezah.thunder_rod": "Thunder Rod",
   "text.lezah.thunder_rod_radius": "You can't summon thunder. There aren't entities nearby!",
   "text.lezah.thunder_rod_boom": "LET'S GO!",
-  "item.lezah.bugged_sword": "Bugged Sword"
+  "item.lezah.bugged_sword": "Bugged Sword",
+  "text.lezah.thunder_rod_shoot_thunder": "[SHIFT] Shoot Thunder!"
 }
