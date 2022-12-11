@@ -54,5 +54,9 @@
   "text.lezah.thunder_rod_radius": "You can't summon thunder. There aren't entities nearby!",
   "text.lezah.thunder_rod_boom": "LET'S GO!",
   "item.lezah.bugged_sword": "Bugged Sword",
-  "text.lezah.thunder_rod_shoot_thunder": "[SHIFT] Shoot Thunder!"
+  "text.lezah.thunder_rod_shoot_thunder": "[RIGHT CLICK] Shoot Thunder!",
+  "advancements.lezah.thunder_rod.title": "A Thunder in a Stick",
+  "advancements.lezah.thunder_rod.desc": "Craft a Thunder Rod!",
+  "advancements.lezah.thunder_god.title": "Thunder God",
+  "advancements.lezah.thunder_god.desc": "USE THE THUNDER FORCE IN YOUR SUPER"
 }
